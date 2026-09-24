@@ -14,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+currently working on learning Java and C# and want to make a game at some point.
 
-im just bedrotting
+about me:
+i like to keep things short and sweet
+
+hobbies: 
+- drawing(just getting back into it)
+- video games
+- guitar (im pretty new so dont expect me to play some hardcore music) 😵‍💫
+- working out (idk if this counts)
+- watching shows and anime
+
+i own a cat named timmy
