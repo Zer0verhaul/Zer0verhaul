@@ -19,7 +19,8 @@ currently working on learning Java and C# and want to make a game at some point.
 about me:
 i like to keep things short and sweet
 
-hobbies: 
+hobbies:
+- edit long-form videos
 - drawing(just getting back into it)
 - video games
 - guitar (im pretty new so dont expect me to play some hardcore music) 😵‍💫
