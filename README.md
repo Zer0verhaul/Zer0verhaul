@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently working on learning Java and C# and want to make a game at some point.
+currently learning Java and C# and want to make a game at some point.
 
 about me:
 i like to keep things short and sweet
